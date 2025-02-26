@@ -1,2 +1,3 @@
 console.writeline("hello word:( :
 console.writeline("blablablablablalbalbal");
+int x = 0
